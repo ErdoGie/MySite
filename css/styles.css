@@ -84,15 +84,7 @@ h3{
     color: #11999E;
 
 }
-.footer-link{
-    color: black;
-}
-.my_site{
-    color: black;
-}
-.btn{
-    color: black;
-}
+
 .skill-row{
     width: 60%;
     margin: 100px auto 100px auto;
@@ -145,4 +137,6 @@ hr{
 	top:1px;
 }
 
-        
+a{
+    color: black;
+}
